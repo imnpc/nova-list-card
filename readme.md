@@ -9,7 +9,7 @@ Add a variety of lists to your dashboard
 
 ### Install
 ```bash
-composer require dillingham/nova-list-card
+composer require imnpc/nova-list-card
 ```
 
 ### Basic Usage
